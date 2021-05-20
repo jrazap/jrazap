@@ -1,6 +1,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/55711330/119032075-11dad680-b9ac-11eb-9778-307c08ccdc50.png)
 
+```ruby
 class Mohamed Elazap {
   // I'm ambitious and love new challenges :)
   // My vast variety of skills is continuously expanding.
@@ -34,3 +35,4 @@ class Mohamed Elazap {
     ]
   }
 }
+```
