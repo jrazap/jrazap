@@ -1,16 +1,33 @@
-### Hi there 👋
+class Mohamed Elazap {
+  // I'm ambitious and love new challenges :)
+  // My vast variety of skills is continuously expanding.
 
-<!--
-**jrazap/jrazap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  constructor() {
+    this.name = "Mohamed Elazap"
+    this.phone = "01211382990"
+    this.email = "elazapm@gmail.com"
+  }
 
-Here are some ideas to get you started:
+  workExperience() {
+    return [
+      { "2019-now"  : "Freelance Front-End Developer" }
+    ]      
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  education() {
+    return [
+      { "2018-2022" : "Computer Science, Bachelor's degree @ Mansoura University" },
+    ]
+  }
+  
+  skills() {
+    return [ 
+      'HTML', 'CSS', 'JavaScript',
+      'jQuery', 'Bootstrap',
+      'Vue.js', 'SASS', 'Pugjs' , 'npm', 'Gulp',
+      'Ajax', 'json'
+      'Python', 'Java', 'C#', 'Wordpress',
+      'Photoshop', 'Illustrator'
+    ]
+  }
+}
