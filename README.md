@@ -19,7 +19,7 @@ class Mohamed Elazap {
 
   education() {
     return [
-      { "2018-2022" : "Computer Science, Bachelor's degree @ Mansoura University" },
+      { "2018-2022" : "Computer Science, Bachelor's degree @ Mansoura University" }
     ]
   }
   
