@@ -25,7 +25,7 @@ class Mohamed Elazap {
     return [ 
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap',
-      'Vue.js', 'SASS', 'Pugjs' , 'npm', 'Gulp',
+      'Vuejs', 'Sass', 'Pugjs' ,'Gulpjs', 'Php', 
       'Ajax', 'json'
       'Python', 'Java', 'C#', 'Wordpress',
       'Photoshop', 'Illustrator'
