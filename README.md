@@ -1,3 +1,23 @@
+<style>
+.social_media2 {
+  width: fit-content;
+  margin: 0 auto 30px auto;
+  display: none;
+}
+.social_media2 ul li {
+  display: inline-block;
+  margin: 5px;
+}
+.social_media2 ul li a {
+  width: 40px;
+  height: 40px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  border: 5px solid;
+}
+</style>
 <h1 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;"><img src="./logo.png" alt=""> Mohamed Elazap</h1>
 
 
