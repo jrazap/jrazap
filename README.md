@@ -1,4 +1,4 @@
-<h1><img src="./logo.png" alt="" height="32px" width="32px"> Mohamed Elazap | Front End Developer</h1>
+<h1 align="center"><img src="./logo.png" alt="" height="32px" width="32px"> Mohamed Elazap | Front End Developer</h1>
 
 
 ```javascript
