@@ -8,7 +8,7 @@ class Mohamed Elazap {
   constructor() {
     this.name = "Mohamed Elazap"
     this.phone = "01211382990"
-    this.email = "elazapm@gmail.com"
+    this.email = "jrazap.dev@gmail.com"
   }
   workExperience() {
     return [
