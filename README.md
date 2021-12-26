@@ -33,3 +33,34 @@ class Mohamed Elazap {
   }
 }
 ```
+<div class="social_media2">
+                <ul>
+                  <li>
+                    <a href="https://www.facebook.com/jrazap1" target="_blank"
+                      ><i class="fab fa-facebook" aria-hidden="true"></i
+                    ></a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/jrazap1" target="_blank"
+                      ><i class="fab fa-twitter" aria-hidden="true"></i
+                    ></a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/jrazap" target="_blank"
+                      ><i class="fab fa-github" aria-hidden="true"></i
+                    ></a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.linkedin.com/in/jrazap/"
+                      target="_blank"
+                      ><i class="fab fa-linkedin-in" aria-hidden="true"></i
+                    ></a>
+                  </li>
+                  <li>
+                    <a href="https://www.instagram.com/jrazap/" target="_blank"
+                      ><i class="fab fa-instagram" aria-hidden="true"></i
+                    ></a>
+                  </li>
+                </ul>
+              </div>
