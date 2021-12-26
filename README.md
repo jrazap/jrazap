@@ -33,38 +33,3 @@ class Mohamed Elazap {
   }
 }
 ```
-<div class="social_media2" style="width: fit-content; margin: 0 auto 30px auto;">
-                <ul>
-                  <li style="display: inline-block;margin: 5px;">
-                    <a href="https://www.facebook.com/jrazap1" target="_blank" style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
-                      ><i class="fab fa-facebook" aria-hidden="true"></i
-                    ></a>
-                  </li>
-                  <li style="display: inline-block;margin: 5px;">
-                    <a href="https://twitter.com/jrazap1" target="_blank" 
-                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
-                      ><i class="fab fa-twitter" aria-hidden="true"></i
-                    ></a>
-                  </li>
-                  <li style="display: inline-block;margin: 5px;">
-                    <a href="https://github.com/jrazap" target="_blank"
-                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
-                      ><i class="fab fa-github" aria-hidden="true"></i
-                    ></a>
-                  </li>
-                  <li style="display: inline-block;margin: 5px;">
-                    <a
-                      href="https://www.linkedin.com/in/jrazap/"
-                      target="_blank"
-                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
-                      ><i class="fab fa-linkedin-in" aria-hidden="true"></i
-                    ></a>
-                  </li>
-                  <li style="display: inline-block;margin: 5px;">
-                    <a href="https://www.instagram.com/jrazap/" target="_blank"
-                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
-                      ><i class="fab fa-instagram" aria-hidden="true"></i
-                    ></a>
-                  </li>
-                </ul>
-              </div>
