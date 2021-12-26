@@ -1,4 +1,4 @@
-<h1 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;"><img src="./logo.png" alt=""> Mohamed Elazap</h1>
+<h1 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;height:30px;width:30px;"><img src="./logo.png" alt=""> Mohamed Elazap</h1>
 
 
 ```javascript
