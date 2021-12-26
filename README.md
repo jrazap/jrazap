@@ -33,9 +33,9 @@ class Mohamed Elazap {
   }
 }
 ```
-<center>
-<span><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
-<span><img src="./instagram.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
-<span><img src="./linkedin.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
-<span><img src="./twitter.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
-</center>
+<div style="align:center">
+<span><a href="https://www.fb.com/jrazap1"><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+<span><a href="https://www.instagram.com/jrazap/"><img src="./instagram.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+<span><a href="https://www.linkedin.com/in/jrazap/"><img src="./linkedin.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+<span><a href="https://twitter.com/jrazap1"><img src="./twitter.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+</div>
