@@ -33,7 +33,9 @@ class Mohamed Elazap {
   }
 }
 ```
-<span><img src="./fb.png" alt="" height="35px" width="35px" style="display:inline-block;border-radius:50%"></span>
-<span><img src="./instagram.png" alt="" height="35px" width="35px" style="display:inline-block;border-radius:50%"></span>
-<span><img src="./linkedin.png" alt="" height="35px" width="35px" style="display:inline-block;border-radius:50%"></span>
-<span><img src="./twitter.png" alt="" height="35px" width="35px" style="display:inline-block;border-radius:50%"></span>
+<center>
+<span><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
+<span><img src="./instagram.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
+<span><img src="./linkedin.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
+<span><img src="./twitter.png" alt="" height="35px" width="35px" style="border-radius:50%"></span>
+</center>
