@@ -1,4 +1,4 @@
-<img src="./logo.png" alt="" height="50px" width="50px" align="center">
+<span align="center"><img src="./logo.png" alt="" height="60px" width="60px"></span>
 <h1 align="center">Mohamed Elazap | Front End Developer</h1>
 
 
