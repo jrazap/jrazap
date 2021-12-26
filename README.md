@@ -1,23 +1,3 @@
-<style>
-.social_media2 {
-  width: fit-content;
-  margin: 0 auto 30px auto;
-  display: none;
-}
-.social_media2 ul li {
-  display: inline-block;
-  margin: 5px;
-}
-.social_media2 ul li a {
-  width: 40px;
-  height: 40px;
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-  border-radius: 50%;
-  border: 5px solid;
-}
-</style>
 <h1 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;"><img src="./logo.png" alt=""> Mohamed Elazap</h1>
 
 
@@ -53,32 +33,36 @@ class Mohamed Elazap {
   }
 }
 ```
-<div class="social_media2">
+<div class="social_media2" style="width: fit-content; margin: 0 auto 30px auto;">
                 <ul>
-                  <li>
-                    <a href="https://www.facebook.com/jrazap1" target="_blank"
+                  <li style="display: inline-block;margin: 5px;">
+                    <a href="https://www.facebook.com/jrazap1" target="_blank" style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
                       ><i class="fab fa-facebook" aria-hidden="true"></i
                     ></a>
                   </li>
-                  <li>
-                    <a href="https://twitter.com/jrazap1" target="_blank"
+                  <li style="display: inline-block;margin: 5px;">
+                    <a href="https://twitter.com/jrazap1" target="_blank" 
+                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
                       ><i class="fab fa-twitter" aria-hidden="true"></i
                     ></a>
                   </li>
-                  <li>
+                  <li style="display: inline-block;margin: 5px;">
                     <a href="https://github.com/jrazap" target="_blank"
+                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
                       ><i class="fab fa-github" aria-hidden="true"></i
                     ></a>
                   </li>
-                  <li>
+                  <li style="display: inline-block;margin: 5px;">
                     <a
                       href="https://www.linkedin.com/in/jrazap/"
                       target="_blank"
+                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
                       ><i class="fab fa-linkedin-in" aria-hidden="true"></i
                     ></a>
                   </li>
-                  <li>
+                  <li style="display: inline-block;margin: 5px;">
                     <a href="https://www.instagram.com/jrazap/" target="_blank"
+                       style="width: 40px;height: 40px;display: table-cell;text-align: center;vertical-align: middle;border-radius: 50%;border: 5px solid;"
                       ><i class="fab fa-instagram" aria-hidden="true"></i
                     ></a>
                   </li>
