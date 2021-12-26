@@ -32,9 +32,11 @@ class Mohamed Elazap {
   }
 }
 ```
-<span><h3 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;">Follow me</h3></span>
-<span><a href="https://jrazap.netlify.app/"><img src="./logo.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
-<span><a href="https://www.fb.com/jrazap1"><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
-<span><a href="https://www.instagram.com/jrazap/"><img src="./instagram.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
-<span><a href="https://www.linkedin.com/in/jrazap/"><img src="./linkedin.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
-<span><a href="https://twitter.com/jrazap1"><img src="./twitter.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+<div align="center">
+  <span align="center"><h3 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;">Follow me</h3></span>
+  <span><a href="https://jrazap.netlify.app/"><img src="./logo.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+  <span><a href="https://www.fb.com/jrazap1"><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+  <span><a href="https://www.instagram.com/jrazap/"><img src="./instagram.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+  <span><a href="https://www.linkedin.com/in/jrazap/"><img src="./linkedin.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+  <span><a href="https://twitter.com/jrazap1"><img src="./twitter.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
+</div>
