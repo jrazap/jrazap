@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="./logo.png" height="60px" width="60px">
+  <img src="./logo.png" height="80px" width="80px">
 </div>
-<h1 align="center">Mohamed Elazap | Front End Developer</h1>
+<div align="center">
+  <h1>Mohamed Elazap</h1>
+  <h3>Front End Developer</h3>
+</div>
 
 
 ```javascript
