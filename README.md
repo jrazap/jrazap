@@ -3,7 +3,6 @@
 </div>
 <div align="center">
   <h1>Mohamed Elazap</h1>
-  <h3>Front End Developer</h3>
 </div>
 
 
