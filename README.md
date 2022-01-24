@@ -6,11 +6,8 @@
 <div align="center">
   <h1>Mohamed Elazap</h1>
 </div>
-<p align="left"> <a href="https://twitter.com/jrazap1" target="blank"><img src="https://img.shields.io/twitter/follow/jrazap1?logo=twitter&style=for-the-badge" alt="jrazap" /></a> </p>
-<p align="left"> <a href="https://twitter.com/jrazap1" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jrazap" /></a> </p>
-
-<p align="left">  </p>
-
+<p align="left"> <a href="https://twitter.com/jrazap1" target="_blank"><img src="https://img.shields.io/twitter/follow/jrazap1?logo=twitter&style=for-the-badge" alt="jrazap" /></a></p>
+<p align="right"> <a href="https://www.linkedin.com/in/jrazap/" target="_blank"><img src="https://img.shields.io/linkedin/follow/jrazap?style=for-the-badge&logo=linkedin&logoColor=white" alt="jrazap" /></a> </p>
 ```javascript
 class Mohamed Elazap {
   // I'm ambitious and love new challenges :)
