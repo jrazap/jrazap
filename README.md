@@ -40,7 +40,7 @@ class Mohamed Elazap {
 }
 ```
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&locale=en&bg_color=#161B22&border_color=#161B22" alt="jrazap" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&locale=en&bg_color=#161B22&border_color=#161B22&theme=vision-friendly-dark" alt="jrazap" /></p>
 <div align="center">
   <span align="center"><h3 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;">Follow me</h3></span>
   <span><a href="https://www.fb.com/jrazap1"><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
