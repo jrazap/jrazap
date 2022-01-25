@@ -7,6 +7,7 @@
   <h1>Mohamed Elazap</h1>
 </div>
 <p align="left"> <a href="https://twitter.com/jrazap1" target="_blank"><img src="https://img.shields.io/twitter/follow/jrazap1?logo=twitter&style=for-the-badge" alt="jrazap" /></a></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&locale=en" alt="jrazap" /></p>
 
 ```javascript
 class Mohamed Elazap {
@@ -39,7 +40,6 @@ class Mohamed Elazap {
   }
 }
 ```
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&locale=en" alt="jrazap" /></p>
 <div align="center">
   <span align="center"><h3 style="margin: 0px auto;font-weight: 300;color: #e1e1e1;">Follow me</h3></span>
   <span><a href="https://www.fb.com/jrazap1"><img src="./fb.png" alt="" height="35px" width="35px" style="border-radius:50%"></a></span>
