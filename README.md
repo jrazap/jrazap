@@ -4,7 +4,7 @@
   </a>
 </div>
 <div align="center">
-  <p style="font-size:1.5rem">Mohamed Elazap</p>
+  <h1>Mohamed Elazap</h1>
 </div>
 <a href="https://twitter.com/jrazap1" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jrazap1?logo=twitter&color=yellow&label=%40jrazap1&logoColor=yellow&style=for-the-badge"></a>
 
