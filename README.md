@@ -6,7 +6,8 @@
 <div align="center">
   <h1>Mohamed Elazap</h1>
 </div>
-<p align="left"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jrazap1?color=yellow&label=%40jrazap1&logoColor=yellow&style=flat-square"></p>
+<a href="https://twitter.com/jrazap1" target="blank"><img src="https://img.shields.io/twitter/follow/jrazap1?logo=twitter&style=for-the-badge" alt="jrazap1" /></a>
+<p align="left"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jrazap1?logo=twitter&color=yellow&label=%40jrazap1&logoColor=yellow&style=flat-square"></p>
 
 ```javascript
 class Mohamed Elazap {
