@@ -13,7 +13,8 @@ class Mohamed Elazap {
   // My vast variety of skills is continuously expanding.
   constructor() {
     this.name = "Mohamed Elazap"
-    this.email = "jrazap.dev@gmail.com"
+    this.email = "jrazap1@gmail.com"
+    this.website = "jrazap.com"
   }
   workExperience() {
     return [
