@@ -31,10 +31,12 @@ class Mohamed Elazap {
     return [ 
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap',
-      'Vuejs', 'Sass', 'Pugjs' ,'Gulpjs', 'Php', 
-      'Ajax', 'json'
-      'Python', 'Java', 'C#', 'Wordpress',
-      'Photoshop', 'Illustrator'
+      'Reactjs','Vuejs',
+      'Sass', 'Pugjs' ,'Gulpjs',
+      'Php', 
+      'Python', 'Java', 'C#',
+      'Wordpress',
+      'Photoshop'
     ]
   }
 }
