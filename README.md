@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://jrazap.com/">
+  <a href="https://jrazap.com/">
     <img src="./logo.png" height="80px" width="80px">
   </a>
 </div>
@@ -14,16 +14,18 @@ class Mohamed Elazap {
   constructor() {
     this.name = "Mohamed Elazap"
     this.email = "jrazap1@gmail.com"
-    this.website = "jrazap.com"
+    this.portfolio = "https://jrazap.com"
   }
   workExperience() {
     return [
-      { "2019-now"  : "Freelance Front-End Developer" }
+      { "2019 - 2022"  : "Front-End Developer @ Freelancing Platforms" },
+      { "July 2022 - now"  : "Front-End Developer @ Spider-Te8" },
     ]      
   }
   education() {
     return [
-      { "2018-2022" : "Computer Science, Bachelor's degree @ Mansoura University" }
+      { "2018 - 2022" : "Computer Science, Bachelor's degree @ Mansoura University" },
+      { "2020" : "Front-End Web Developer Nanodegree Program @ Udacity" }
     ]
   }
   
