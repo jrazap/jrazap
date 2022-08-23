@@ -32,12 +32,10 @@ class Mohamed Elazap {
   skills() {
     return [
       'HTML', 'CSS', 'JavaScript',
-      'jQuery', 'Bootstrap',
-      'Reactjs','Vuejs',
+      'jQuery', 'Bootstrap', 'Tailwind CSS',
+      'npm', 'Reactjs','Vuejs',
       'Sass', 'Pugjs' ,'Gulpjs',
-      'Php',
-      'Python', 'Java', 'C#',
-      'Wordpress',
+      'Php','Python','Wordpress',
       'Photoshop'
     ]
   }
