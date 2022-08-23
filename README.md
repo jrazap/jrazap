@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jrazap.com/">
-    <img src="./logo.png" height="80px" width="80px">
+    <img src="./assets/logo.png" height="80px" width="80px">
   </a>
 </div>
 <div align="center">
@@ -20,7 +20,7 @@ class Mohamed Elazap {
     return [
       { "2019 - 2022"  : "Front-End Developer @ Freelancing Platforms" },
       { "July 2022 - now"  : "Front-End Developer @ Spider-Te8" }
-    ]      
+    ]
   }
   education() {
     return [
@@ -28,14 +28,14 @@ class Mohamed Elazap {
       { "2020" : "Front-End Web Developer Nanodegree Program @ Udacity" }
     ]
   }
-  
+
   skills() {
-    return [ 
+    return [
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap',
       'Reactjs','Vuejs',
       'Sass', 'Pugjs' ,'Gulpjs',
-      'Php', 
+      'Php',
       'Python', 'Java', 'C#',
       'Wordpress',
       'Photoshop'
@@ -47,9 +47,9 @@ class Mohamed Elazap {
 <p align="center"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&locale=en&theme=vision-friendly-dark" alt="jrazap" /></p>
 <div align="center">
   <span align="center"><h3>Contact me</h3></span>
-  <span><a href="https://www.fb.com/jrazap1"><img src="./fb.png" alt="" height="35px" width="35px"></a></span>
-  <span><a href="https://www.instagram.com/jrazap/"><img src="./instagram.png" alt="" height="35px" width="35px"></a></span>
-  <span><a href="https://jrazap.com/"><img src="./logo02.png" alt="" height="35px" width="35px"></a></span>
-  <span><a href="https://www.linkedin.com/in/jrazap/"><img src="./linkedin.png" alt="" height="35px" width="35px"></a></span>
-  <span><a href="https://twitter.com/jrazap1"><img src="./twitter.png" alt="" height="35px" width="35px"></a></span>
+  <span><a href="https://www.fb.com/jrazap1"><img src="./assets/fb.png" alt="" height="35px" width="35px"></a></span>
+  <span><a href="https://www.instagram.com/jrazap/"><img src="./assets/instagram.png" alt="" height="35px" width="35px"></a></span>
+  <span><a href="https://jrazap.com/"><img src="./assets/logo02.png" alt="" height="35px" width="35px"></a></span>
+  <span><a href="https://www.linkedin.com/in/jrazap/"><img src="./assets/linkedin.png" alt="" height="35px" width="35px"></a></span>
+  <span><a href="https://twitter.com/jrazap1"><img src="./assets/twitter.png" alt="" height="35px" width="35px"></a></span>
 </div>
