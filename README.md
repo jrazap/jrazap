@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jrazap.com/">
-    <img src="./logo.png" height="150px" width="150px">
+    <img src="./logo.png" height="80px" width="80px">
   </a>
 </div>
 <div align="center">
