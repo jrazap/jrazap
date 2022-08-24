@@ -42,7 +42,21 @@ class Mohamed Elazap {
 }
 ```
 
-<p align="center"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&locale=en&theme=vision-friendly-dark" alt="jrazap" /></p>
+---
+
+## 📊 Github Stats
+
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&count_private=true&theme=vision-friendly-dark" height="192px"/></a>
+<br/>
+  &nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrazap&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Merhan" height="192px"/>
+  <br/>
+  </p>
+
+---
+
 <div align="center">
   <span align="center"><h3>Contact me</h3></span>
   <span><a href="https://www.fb.com/jrazap1"><img src="./assets/fb.png" alt="" height="35px" width="35px"></a></span>
