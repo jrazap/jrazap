@@ -46,7 +46,6 @@ class Mohamed Elazap {
 
 ## 📊 Github Stats
 
-  <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jrazap&show_icons=true&count_private=true&theme=vision-friendly-dark" height="192px"/></a>
 <br/>
