@@ -33,7 +33,7 @@ class Mohamed Elazap {
     return [
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap', 'Tailwind CSS',
-      'npm', 'yarn', 'Reactjs','Vuejs',
+      'npm', 'yarn', 'Jest', 'Reactjs','Vuejs',
       'Sass', 'Pugjs' ,'Gulpjs',
       'Php','Python','Wordpress',
       'Photoshop'
