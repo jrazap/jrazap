@@ -34,7 +34,7 @@ class Mohamed Elazap {
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap', 'Tailwind CSS',
       'npm', 'yarn', 'Jest', 'Reactjs','Vuejs',
-      'Sass', 'Pugjs' ,'Gulpjs',
+      'Sass', 'Pugjs' ,'Gulpjs', 'Webpack',
       'Php','Python','Wordpress',
       'Photoshop'
     ]
