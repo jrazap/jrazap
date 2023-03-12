@@ -9,19 +9,21 @@
 
 ```javascript
 class Mohamed Elazap {
-  // I'm ambitious and love new challenges :)
+  // I'm a passionate software engineer with 3+ years of experience in Front-End development :)
   // My vast variety of skills is continuously expanding.
   constructor() {
     this.name = "Mohamed Elazap"
     this.email = "jrazap1@gmail.com"
     this.portfolio = "https://jrazap.com"
   }
+
   workExperience() {
     return [
       { "2019 - 2022"  : "Front-End Developer @ Freelancing Platforms" },
       { "July 2022 - now"  : "Front-End Developer @ Spider-Te8" }
     ]
   }
+
   education() {
     return [
       { "2018 - 2022" : "Computer Science, Bachelor's degree @ Mansoura University" },
@@ -55,6 +57,7 @@ class Mohamed Elazap {
   </p>
 
 ---
+
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrazap&layout=compact&theme=vision-friendly-dark" alt="Merhan" /></a> </p>
