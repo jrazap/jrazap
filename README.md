@@ -55,6 +55,9 @@ class Mohamed Elazap {
   </p>
 
 ---
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrazap&layout=compact&theme=vision-friendly-dark" alt="Merhan" /></a> </p>
 
 <div align="center">
   <span align="center"><h3>Contact me</h3></span>
