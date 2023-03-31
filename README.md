@@ -60,7 +60,9 @@ class Mohamed Elazap {
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrazap&layout=compact&theme=vision-friendly-dark" alt="Merhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrazap&layout=compact&theme=vision-friendly-dark" alt="Jrazap" /></a> </p>
+
+<a href="https://app.daily.dev/jrazap"><img src="https://api.daily.dev/devcards/d1878312ebd940218c80de70f57159fb.png?r=slc" width="400" alt="Mohamed Elazap's Dev Card"/></a>
 
 <div align="center">
   <span align="center"><h3>Contact me</h3></span>
