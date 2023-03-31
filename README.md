@@ -6,6 +6,9 @@
 <div align="center">
   <h1>Mohamed Elazap</h1>
 </div>
+<p align="center">
+	<a href="https://app.daily.dev/jrazap"><img src="https://api.daily.dev/devcards/d1878312ebd940218c80de70f57159fb.png?r=slc" width="400" alt="Mohamed Elazap's Dev Card"/></a>
+</p>
 
 ```javascript
 class Mohamed Elazap {
@@ -63,10 +66,6 @@ class Mohamed Elazap {
 <p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrazap&layout=compact&theme=vision-friendly-dark" alt="Jrazap" /></a>
 </p> -->
-
-<p align="center">
-	<a href="https://app.daily.dev/jrazap"><img src="https://api.daily.dev/devcards/d1878312ebd940218c80de70f57159fb.png?r=slc" width="400" alt="Mohamed Elazap's Dev Card"/></a>
-</p>
 
 <div align="center">
   <span align="center"><h3>Contact me</h3></span>
