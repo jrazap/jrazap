@@ -6,9 +6,9 @@
 <div align="center">
   <h1>Mohamed Elazap</h1>
 </div>
-<p align="center">
+<!-- <p align="center">
 	<a href="https://app.daily.dev/jrazap"><img src="https://api.daily.dev/devcards/d1878312ebd940218c80de70f57159fb.png?r=slc" width="400" alt="Mohamed Elazap's Dev Card"/></a>
-</p>
+</p> -->
 
 ```javascript
 class Mohamed Elazap {
