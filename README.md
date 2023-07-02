@@ -38,7 +38,7 @@ class Mohamed Elazap {
     return [
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap', 'Tailwind CSS',
-      'npm', 'yarn', 'Jest', 'Reactjs', 'Next.js', 'Vue.js',
+      'npm', 'yarn', 'Jest', 'Reactjs', 'Next.js', 'Redux',
       'Sass', 'Pugjs' , 'Gulpjs', 'Webpack', 'Github',
       'Php', 'RestAPIs', 'Python', 'Wordpress',
       'Photoshop', 'Illustrator', 'Figma'
