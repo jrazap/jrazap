@@ -39,7 +39,7 @@ class Mohamed Elazap {
       'HTML', 'CSS', 'JavaScript',
       'jQuery', 'Bootstrap', 'Tailwind CSS',
       'npm', 'yarn', 'Jest', 'Reactjs', 'Next.js', 'Redux',
-      'Sass', 'Pugjs' , 'Gulpjs', 'Webpack', 'Github',
+      'Sass', 'Pug.js' , 'Gulp.js', 'Webpack', 'Github',
       'Php', 'RestAPIs', 'Python', 'Wordpress',
       'Photoshop', 'Illustrator', 'Figma'
     ]
