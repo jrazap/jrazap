@@ -23,7 +23,7 @@ class Mohamed Elazap {
   workExperience() {
     return [
       { "2019 - 2022"  : "Front-End Developer @ Freelancing Platforms" },
-      { "July 2022 - now"  : "Front-End Developer @ Spider-Te8" }
+      { "July 2022 - December 2023"  : "Front-End Developer @ Spider-Te8" }
     ]
   }
 
