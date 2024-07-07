@@ -36,11 +36,11 @@ class Mohamed Elazap {
 
   skills() {
     return [
-      'HTML', 'CSS', 'JavaScript',
-      'Sass', 'Pug.js' , 'Gulp.js', 'Webpack', 'Github',
+      'HTML', 'CSS', 'JavaScript', 'TypeScript',
+      'Sass', 'Pug.js' , 'Gulp.js', 'Webpack', 'Vite',
       'jQuery', 'Bootstrap', 'Tailwind CSS',
-      'npm', 'yarn', 'Jest',
-      'Reactjs', 'Next.js', 'Redux', 
+      'npm', 'Yarn', 'Jest',
+      'React.js', 'Next.js', 'Redux', 'Recoil.js',
       'Express.js', 'Node.js', 'MongoDB', 
       'Php', 'Python', 'Wordpress',
       'Photoshop', 'Illustrator', 'Figma'
