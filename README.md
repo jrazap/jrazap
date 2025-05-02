@@ -22,8 +22,10 @@ class Mohamed Elazap {
 
   workExperience() {
     return [
+      { "February 2025 - Now"  : "Front-End Developer @ 5D ITS" },
+      { "July 2024 - February 2025"  : "Front-End Developer @ 5D ITS" },
+      { "July 2022 - December 2023"  : "Front-End Developer @ Spider-Te8" },
       { "2019 - 2022"  : "Front-End Developer @ Freelancing Platforms" },
-      { "July 2022 - now"  : "Front-End Developer @ Spider-Te8" }
     ]
   }
 
@@ -36,12 +38,13 @@ class Mohamed Elazap {
 
   skills() {
     return [
-      'HTML', 'CSS', 'JavaScript',
-      'jQuery', 'Bootstrap', 'Tailwind CSS',
-      'npm', 'yarn', 'Jest', 'Reactjs', 'Next.js', 'Redux',
-      'Sass', 'Pug.js' , 'Gulp.js', 'Webpack', 'Github',
-      'Php', 'RestAPIs', 'Python', 'Wordpress',
-      'Photoshop', 'Illustrator', 'Figma'
+      'HTML', 'CSS', 'Sass', 'Pug.js',
+      'Bootstrap', 'TailwindCSS',
+      'Javascript', 'jQuery', 'React.js', 'Next.js',
+      'Typescript', 'Gulp.js', 'Webpack', 'Jest',
+      'Redux', 'Recoil', 'React Query',
+      'Node.js', 'Express.js', 'MongoDB',
+      'Php', 'Python', 'Wordpress', 'Figma'
     ]
   }
 }
@@ -63,7 +66,7 @@ class Mohamed Elazap {
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> 
+<p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrazap&layout=compact&theme=vision-friendly-dark" alt="Jrazap" /></a>
 </p> -->
 
