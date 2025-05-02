@@ -22,10 +22,10 @@ class Mohamed Elazap {
 
   workExperience() {
     return [
-      { "February 2025 - Now"  : "Front-End Developer @ 5D ITS" },
-      { "July 2024 - February 2025"  : "Front-End Developer @ 5D ITS" },
-      { "July 2022 - December 2023"  : "Front-End Developer @ Spider-Te8" },
-      { "2019 - 2022"  : "Front-End Developer @ Freelancing Platforms" },
+      { "February 2025 - Now"  : "@ Future Information Systems" },
+      { "July 2024 - February 2025"  : "@ 5D ITS" },
+      { "July 2022 - December 2023"  : "@ Spider-Te8" },
+      { "2019 - 2022"  : "@ Freelancing Platforms" },
     ]
   }
 
