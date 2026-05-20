@@ -16,6 +16,7 @@ class Mohamed Elazap {
   // I have experience with modern web technologies, so I can build the required software in a professional way
   // with clean and reusable code, focused on building high-performance, user-friendly web applications.
   // Proven ability to enhance website speed, and system reliability.
+
   constructor() {
     this.name = "Mohamed Elazap"
     this.email = "contact@jrazap.com"
@@ -43,10 +44,9 @@ class Mohamed Elazap {
       'HTML', 'CSS', 'Sass', 'Pug.js',
       'Bootstrap', 'TailwindCSS',
       'Javascript', 'jQuery', 'React.js', 'Next.js',
-      'Typescript', 'Gulp.js', 'Webpack', 'Jest',
+      'Typescript', 'Jest',
       'Redux', 'Recoil', 'React Query',
       'Node.js', 'Express.js', 'MongoDB',
-      'Php', 'Python', 'Wordpress', 'Figma'
     ]
   }
 }
