@@ -12,8 +12,7 @@
 
 ```javascript
 class Mohamed Elazap {
-  // I'm a passionate software engineer with 4+ years of experience in Front-End development :)
-  // My vast variety of skills is continuously expanding.
+  // I'm a software engineer with 5+ years of experience in Front-End development. I have experience with modern web technologies, so I can build the required software in a professional way with clean and reusable code, focused on building high-performance, user-friendly web applications. Proven ability to enhance website speed, and system reliability.
   constructor() {
     this.name = "Mohamed Elazap"
     this.email = "contact@jrazap.com"
