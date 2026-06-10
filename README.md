@@ -19,7 +19,7 @@ class Mohamed Elazap {
 
   constructor() {
     this.name = "Mohamed Elazap"
-    this.email = "contact@jrazap.com"
+    this.email = "jrazap1@gmail.com"
     this.portfolio = "https://jrazap.com"
   }
 
